@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_Sophos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="meh">Ingresa tus datos para acceder</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnLoginWithFinger">Ingresar con huella</string>
+    <string name="frameSendDocuments">Enviar documentos</string>
+    <string name="frameGetDocuments">Enviar documentos</string>
+    <string name="frameOffices">Oficinas</string>
+</resources>
